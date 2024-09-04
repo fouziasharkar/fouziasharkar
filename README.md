@@ -34,7 +34,7 @@
 
 
 <div align="center">
-  <h2> My Contributions </h2>
+  <h1> My Contributions </h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fouziasharkar/fouziasharkar/output/github-contribution-grid-snake.svg" />
   
