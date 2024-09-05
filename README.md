@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Data Science, Machine Learning**
 
-👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/fouziasharkar/home)
+👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/fouzia-sharkar/home?authuser=0)
 
 📫 How to reach me **sharkarfouzia@gmail.com**
 
